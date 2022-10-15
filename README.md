@@ -37,7 +37,7 @@
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<img align="center" alt="visitors" src="https://gpvc.arturio.dev/rohit0985"/>
 <p align="center">
 <a href="https://github.com/rohit">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohit0985&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
