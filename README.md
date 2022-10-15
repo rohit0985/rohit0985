@@ -1,5 +1,4 @@
 ## Hey there, I'm Rohit Kumar!  
-Thanks for visiting here
 
 ### 👨🏻‍💻 &nbsp;About Me
 
