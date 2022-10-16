@@ -1,6 +1,11 @@
 ## Hey there, I'm Rohit Kumar!  
 
-### 👨🏻‍💻 &nbsp;About Me
+### Glad to see you here!
+
+I am a full-stack web developer. I like programming writing, speaking and traveling.
+I’m looking for the opportunities and I would really love to learn the new things and contribute in every possible way.
+
+### 👨🏻‍💻 &nbsp;Talking about person stuffs:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.  
 🌱 &nbsp;I’m currently on the track of learning about Full stack web developement at the Masai school.  
