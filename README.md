@@ -39,16 +39,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+<a href="https://github.com/rohit0985">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohit0985&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohit0985&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
-    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rohit0985" alt="Parply" />
+    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/rohit0985?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/rohit0985/rohit0985?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
 ---
