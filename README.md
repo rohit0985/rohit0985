@@ -94,3 +94,4 @@ $ BLOG-POST-LIST:END $
 <!-- <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
 <a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a> -->
 </p>
+<img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
