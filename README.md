@@ -12,7 +12,7 @@ I’m looking for the opportunities and I would really love to learn the new thi
 📚 &nbsp;I’m looking for the opportunities. I love to learn abd contribute in any abd every possible way.  
 💬 &nbsp;Feel free to reach out to me for discussion on engineering, and international affairs, or just for some 
       interesting discussion.  
-✉️ &nbsp;You can shoot me an email at rohitsharma4681@gmail.com! I'll try to respond as soon as I can.  
+✉️ &nbsp;You can shoot me an email at <a href="mailto:rohitsharma4681@gmail.com">rohitsharma4681@gmail.com!</a> I'll try to respond as soon as I can.  
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1mWHFQCdL8PcZXYp8lttgqMNo3MDEFrCX/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!  
 ⚡️ &nbsp; Fun fact: I like playing cricket.
 
