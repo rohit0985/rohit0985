@@ -75,9 +75,11 @@ I’m looking for the opportunities and I would really love to learn the new thi
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kumar-70622123a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-Rohit%20Kumar-blue"></a>
+<a href="https://rohit0985.github.io/"><img alt="Github" src="https://img.shields.io/badge/github-rohit0985-red"></a>
 <a href="https://www.instagram.com/rohit.57/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-rohit.57-red"></a>
-
-!-- <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a> -->
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://rohit0985.github.io/"></a> 
 </p>
+
+
 <img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
+
+
