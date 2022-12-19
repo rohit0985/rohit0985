@@ -5,7 +5,7 @@
 I am a full-stack web developer. I like programming writing, speaking and traveling.
 I’m looking for the opportunities and I would really love to learn the new things and contribute in every possible way.
 
-### 👨🏻‍💻 &nbsp;Talking about person stuffs:
+### 👨🏻‍💻 &nbsp;Talking about personal stuffs:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.  
 🌱 &nbsp;I’m currently on the track of learning about Full stack web developement at the Masai school.  
