@@ -14,7 +14,7 @@ I’m looking for the opportunities and I would really love to learn the new thi
       interesting discussion.  
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:rohitsharma4681@gmail.com">rohitsharma4681@gmail.com!</a> I'll try to respond as soon as I can.  
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1mWHFQCdL8PcZXYp8lttgqMNo3MDEFrCX/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!  
-⚡️ &nbsp; Fun fact: I like playing cricket.
+⚡️ &nbsp; Fun fact: I like playing cricket, Listening music, and travelling.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
