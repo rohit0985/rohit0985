@@ -76,7 +76,6 @@ I’m looking for the opportunities and I would really love to learn the new thi
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kumar-70622123a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-Rohit%20Kumar-blue"></a>
 <a href="https://rohit0985.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-github.io-red"></a>
-<a href="https://www.instagram.com/rohit.57/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-rohit.57-red"></a>
 </p>
 
 
